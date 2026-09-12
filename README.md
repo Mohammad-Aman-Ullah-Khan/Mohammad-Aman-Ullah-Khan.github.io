@@ -1,4 +1,4 @@
-# Mohammad Aman Ullah Khan — Portfolio
+# Mohammad Aman Ullah Khan's Portfolio
 
 Personal academic portfolio site: research, publications, projects, and certifications.
 
